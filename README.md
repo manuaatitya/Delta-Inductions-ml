@@ -6,7 +6,7 @@
 |&nbsp;&nbsp;&nbsp;|----------- **Task 1**
      |  &nbsp;|----------- Predicting Fifa rankings using linear regression
         |      &nbsp;|-----------[dataset](https://raw.githubusercontent.com/manuaatitya/delta-inductions-ml/master/fifa_ranking.csv)
-        |	|-----------[README.md](https://github.com/manuaatitya/Delta-Inductions-ml/blob/master/Task1_README.md)
+        |	|-----------[Problem Statement](https://github.com/manuaatitya/Delta-Inductions-ml/blob/master/Task1_README.md)
         |	|-----------[Normal_Mode.py](https://github.com/manuaatitya/Delta-Inductions-ml/blob/master/Task1_script.py)
 
 </pre>
