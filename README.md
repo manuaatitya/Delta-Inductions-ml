@@ -2,7 +2,7 @@
 ## Machine Learning
 ### Work Tree for the Inductions..
 &nbsp;<pre>
-.----------- **delta inductions-ml**</br>
+.----------- **delta inductions-ml**
 |&nbsp;&nbsp;&nbsp;|----------- **Task 1**
      |  &nbsp;|----------- Predicting Fifa rankings using linear regression
         |      &nbsp;|-----------[dataset](https://raw.githubusercontent.com/manuaatitya/delta-inductions-ml/master/fifa_ranking.csv)
