@@ -9,6 +9,10 @@ based on data for the past 25 years
 Submitted for Delta Inductions 2k18 Open Profile ML Normal Mode 
 
 Normal Equation method used instead of Gradient Descent
+A*X = Y 
+A = input train examples with bias
+X = parameters matrix 
+Y = output for the train examples
 
 No feature scaling required  Parameters computed analytically
 
@@ -74,10 +78,12 @@ def main():
         Y_train = Y_train.transpose()
         Y_test = Y_test.transpose()
         Test = Test.transpose()
+        # computing coefficients for parameters
         theta = estimate_coefficient(A,Y_train)
         predicted_result = predict_rankings(Test,theta,Y_test)
+        # To predict accuracy
         predicted_results.append([i,predicted_result])
-    
+    # Printing output
     print('\t\t  Country_Name','\t','Accuracy')  
     for i in range(len(predicted_results)):
       print('{0}'.format(predicted_results[i][0]).rjust(30),'\t','{0:.2f}'.format(predicted_results[i][1]))  
