@@ -11,6 +11,10 @@ Submitted for Delta Inductions 2k18 Open Profile ML Normal Mode
 Normal Equation method used instead of Gradient Descent
 
 No feature scaling required  Parameters computed analytically
+
+75 % input used to train the model and remaining used to test the same
+
+Results in format %country_name %accuracy
  
 """
 # import necessary modules
