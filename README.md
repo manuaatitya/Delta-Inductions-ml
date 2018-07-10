@@ -11,8 +11,8 @@
         |       |-----------[Hacker_Mode.py](https://github.com/manuaatitya/delta-inductions-ml/blob/master/Task1_hackermode.py)
         |       |-------------------------------------------------------->
  |&nbsp;&nbsp;&nbsp;|----------- **Task 2**
-     |   |----------- Clustering
-|          &nbsp;      |-----------[Problem Statement](https://gist.github.com/Sachin-A/b44d96cac8123feaa741aff7989b9a87)
+      |&nbsp;&nbsp;&nbsp;|----------- Clustering
+|       |-----------[Problem Statement](https://gist.github.com/Sachin-A/b44d96cac8123feaa741aff7989b9a87)
 |
 |---------------------> **End of Inductions** <----------------------.
 </pre>
