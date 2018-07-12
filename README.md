@@ -14,6 +14,8 @@
       |&nbsp;&nbsp;&nbsp;|----------- Classifying wine samples based on various properties
 |       |-----------[Problem Statement](https://gist.github.com/Sachin-A/b44d96cac8123feaa741aff7989b9a87)
 |       |-----------[Dataset](https://github.com/manuaatitya/delta-inductions-ml/files/2179150/Wine.xlsx)
+|       |-----------[Normal_Mode.py](https://github.com/manuaatitya/delta-inductions-ml/blob/master/Normal_mode.py)
+|       |-----------[Normal_Mode_clustering_Image](https://github.com/manuaatitya/delta-inductions-ml/blob/master/normal_clustering.png)
 |       |----------------------------------------------------------->
 |
 |---------------------> **End of Inductions** <-------------------------.
