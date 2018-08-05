@@ -17,6 +17,11 @@
 |       |-----------[Normal_Mode.py](https://github.com/manuaatitya/delta-inductions-ml/blob/master/Normal_mode.py)
 |       |-----------[Normal_Mode_clustering_Image](https://github.com/manuaatitya/delta-inductions-ml/blob/master/normal_clustering.png)
 |       |----------------------------------------------------------->
+|   |----------- **Task 3**
+|       |------- Critique Writing on Hyperparameter Optimisation
+|       |-----------[Link to Paper](http://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf)
+|       |----------------------------------------------------------->
 |
 |---------------------> **End of Inductions** <-------------------------.
 </pre>
+
